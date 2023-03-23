@@ -1,0 +1,1 @@
+const kachok = "odilbek"
